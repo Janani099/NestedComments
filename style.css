@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgb(220, 215, 215);
+    font-family: "monserrat", sans-serif;
+    overflow-x: hidden;
+    color: rgb(122, 114, 114);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.comments {
+    width: 40vw;
+}
